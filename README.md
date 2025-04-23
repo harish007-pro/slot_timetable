@@ -28,9 +28,9 @@ Execute the program using runserver command.
 <html>
     <head>
         <center>
-        <img src="logo.png" width="500px"
+        <img src="tablepic.png" width="500px"
         <title></title>
-        <caption><h3>SLOT TIMETABLE- ROSHINI.S(212223230174)</h3></caption>
+        <caption><h3>SLOT TIMETABLE- HARISH G(212224110020)</h3></caption>
         </center>
     </head>
     <body>
@@ -127,12 +127,13 @@ Execute the program using runserver command.
             </tr>
         </table>
         </center>
-    </body>
+    </body>
 </html>
 ```
 
 ## OUTPUT
-![Screenshot 2025-04-23 184850](https://github.com/user-attachments/assets/111518b7-4859-46bb-985c-dc0197c1c755)
+![WhatsApp Image 2025-04-23 at 11 12 46 PM](https://github.com/user-attachments/assets/95a230e2-0770-4ca0-90e6-c58e1e36b1c3)
+
 
 
 ## RESULT
